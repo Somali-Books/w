@@ -33,16 +33,19 @@ export default function Navigation() {
             </div>
           </div>
           <div className="hidden md:flex space-x-6">
-            <a href="#home" className="text-white hover:text-blue-300 transition-colors">
+            <a href="#home" className="text-blue-200 hover:text-blue-100 transition-colors font-medium">
               Guriga
             </a>
-            <a href="#books" className="text-white hover:text-blue-300 transition-colors">
+            <a href="#books" className="text-blue-200 hover:text-blue-100 transition-colors font-medium">
               Buugaag
             </a>
-            <a href="#about" className="text-white hover:text-blue-300 transition-colors">
+            <a href="#about" className="text-blue-200 hover:text-blue-100 transition-colors font-medium">
               Naga
             </a>
-            <a href="#contact" className="text-white hover:text-blue-300 transition-colors">
+            <a href="#leadership" className="text-blue-200 hover:text-blue-100 transition-colors font-medium">
+              Hoggaamiye
+            </a>
+            <a href="#contact" className="text-blue-200 hover:text-blue-100 transition-colors font-medium">
               Xidhiidh
             </a>
           </div>

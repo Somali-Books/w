@@ -54,10 +54,10 @@ export default function BooksCatalog() {
     <section id="books" className="py-20 bg-gradient-to-b from-slate-900 to-slate-800">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6 text-white fade-in-up">
+          <h2 className="text-4xl md:text-5xl font-bold mb-6 text-blue-200 fade-in-up">
             Buugaagteena
           </h2>
-          <p className="text-xl text-gray-300 max-w-3xl mx-auto fade-in-up">
+          <p className="text-xl text-blue-300 max-w-3xl mx-auto fade-in-up">
             Buugaag casri ah oo ku qoran af-soomaali, kuwaas oo ku saabsan teknoolajiyada iyo barnaamijka
           </p>
         </div>

@@ -127,3 +127,26 @@
   opacity: 1;
   transform: translateY(0);
 }
+
+/* Line clamping utilities */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Mobile responsive improvements */
+@media (max-width: 768px) {
+  .hero-3d h1 {
+    font-size: 3rem !important;
+  }
+  
+  .book-card {
+    transform: none;
+  }
+  
+  .book-card:hover {
+    transform: translateY(-5px);
+  }
+}

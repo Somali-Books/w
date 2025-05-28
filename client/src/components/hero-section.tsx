@@ -3,13 +3,13 @@ export default function HeroSection() {
     <section id="home" className="hero-3d min-h-screen flex items-center justify-center relative mt-20">
       <div className="container mx-auto px-4 text-center relative z-10">
         <div className="floating-animation">
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-white to-blue-300 bg-clip-text text-transparent">
+          <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-100 to-blue-300 bg-clip-text text-transparent">
             Somali Books
           </h1>
-          <p className="text-xl md:text-2xl mb-8 text-gray-200 max-w-3xl mx-auto">
+          <p className="text-xl md:text-2xl mb-8 text-blue-200 max-w-3xl mx-auto">
             Buugaagta Casriga ah ee Teknoolajiyada - Baro Macalin La'aan
           </p>
-          <p className="text-lg mb-12 text-gray-300 max-w-2xl mx-auto">
+          <p className="text-lg mb-12 text-blue-300 max-w-2xl mx-auto">
             Hel buugaagta ugu horeysay ee af-soomaali ah oo ku saabsan AI, Programming, Linux, iyo Computer Science
           </p>
           <a 

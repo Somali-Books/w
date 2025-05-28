@@ -4,10 +4,10 @@ export default function ContactSection() {
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 text-white fade-in-up">
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 text-blue-200 fade-in-up">
               Nala Soo Xidhiidh
             </h2>
-            <p className="text-xl text-gray-300 fade-in-up">
+            <p className="text-xl text-blue-300 fade-in-up">
               Ma qabta su'aal ama waxaad rabta inad nala soo xidhiidho?
             </p>
           </div>

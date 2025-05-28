@@ -3,7 +3,7 @@ export default function AboutSection() {
     <section id="about" className="py-20 bg-slate-900">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-8 text-white fade-in-up">
+          <h2 className="text-4xl md:text-5xl font-bold mb-8 text-blue-200 fade-in-up">
             Naga
           </h2>
           <div className="bg-slate-800 rounded-2xl p-8 md:p-12 shadow-2xl fade-in-up">
