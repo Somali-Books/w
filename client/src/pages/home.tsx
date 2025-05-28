@@ -4,6 +4,7 @@ import HeroSection from "@/components/hero-section";
 import BooksCatalog from "@/components/books-catalog";
 import AboutSection from "@/components/about-section";
 import LeadershipSection from "@/components/leadership-section";
+import SocialSection from "@/components/social-section";
 import ContactSection from "@/components/contact-section";
 import Footer from "@/components/footer";
 
@@ -68,6 +69,8 @@ export default function Home() {
       <AboutSection />
       <div className="section-divider"></div>
       <LeadershipSection />
+      <div className="section-divider"></div>
+      <SocialSection />
       <div className="section-divider"></div>
       <ContactSection />
       <Footer />
